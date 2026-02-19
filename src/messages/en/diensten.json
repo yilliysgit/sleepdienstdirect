@@ -1,0 +1,130 @@
+{
+  "hero": {
+    "title": "Towing service for",
+    "highlight": "roadside assistance",
+    "description": "Fast, safe and insured. We transport cars, vans and minibuses (L1) in Amsterdam and the surrounding area. Available 24/7 — on average within ±30 minutes on site.",
+    "badges": {
+      "fast": "±30 min on site",
+      "insured": "100% insured",
+      "vehicles": "Cars • Vans L1"
+    },
+    "cta": {
+      "call": "Call now",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "cta": {
+    "callNow": "Call now",
+    "number": "06 25 375 323",
+    "partnerButton": "Become a Partner"
+  },
+  "services": {
+    "heading": "Our services",
+    "subheading": "Choose what you need — we take care of everything from A to Z, safely and insured.",
+    "cta": "More info",
+    "list": [
+      {
+        "title": "Immediate towing",
+        "subtitle": "Passenger cars • 24/7",
+        "href": "/contact",
+        "image": "/images/services/direct.jpg",
+        "bullets": ["On-site within ±30 min", "Fixed price upfront", "Day & night service"],
+        "tag": "popular",
+        "icon": "car"
+      },
+      {
+        "title": "Van towing",
+        "subtitle": "Commercial vans up to 3500kg",
+        "href": "/contact",
+        "image": "/images/services/transporter.jpg",
+        "bullets": ["Sprinter, Transit, Crafter", "Company vehicles", "Dealer & workshop transport"],
+        "icon": "van"
+      },
+      {
+        "title": "Damaged vehicles",
+        "subtitle": "Recovery & transport",
+        "href": "/contact",
+        "image": "/images/services/schade.jpg",
+        "bullets": ["Body shops", "Fully insured", "Optional reporting"],
+        "icon": "car"
+      },
+      {
+        "title": "Classic / project cars",
+        "subtitle": "Oldtimers & special cars",
+        "href": "/contact",
+        "image": "/images/services/oldtimer.jpg",
+        "bullets": ["Careful loading", "Protective materials", "By appointment"],
+        "icon": "car"
+      },
+      {
+        "title": "International transport",
+        "subtitle": "Benelux & Germany",
+        "href": "/contact",
+        "image": "/images/services/buitenland.jpg",
+        "bullets": ["BE/DE/Benelux", "Quote upfront", "Documents arranged"],
+        "icon": "van"
+      },
+      {
+        "title": "Roadside assistance",
+        "subtitle": "Help on location",
+        "href": "/contact",
+        "image": "/images/services/pechhulp.jpg",
+        "bullets": ["Battery or flat tire", "Fast response", "Continue your trip"],
+        "icon": "car"
+      }
+    ]
+  },
+  "carousel": {
+    "heading": "In the field",
+    "subheading": "Real situations — quickly and carefully resolved.",
+    "prev": "Previous",
+    "next": "Next",
+    "slides": [
+      {
+        "title": "Sedan breakdown",
+        "img": "/images/carousel/sedan.jpg",
+        "caption": "Picked up within 25 minutes — delivered to West garage."
+      },
+      {
+        "title": "L1 van",
+        "img": "/images/carousel/l1.jpg",
+        "caption": "Damage-free loading in a narrow street."
+      },
+      {
+        "title": "Classic car",
+        "img": "/images/carousel/old.jpg",
+        "caption": "Protected transport by appointment."
+      },
+      {
+        "title": "Damaged vehicle",
+        "img": "/images/carousel/schade.jpg",
+        "caption": "Directly transported to the body shop."
+      }
+    ]
+  },
+  "partnerBand": {
+    "title": "Partnering with body shops, garages and car dealers",
+    "subtitle": "Reliable partner for recovery, transport and customized planning. Transparent rates, reporting available and 24/7 service.",
+    "highlights": [
+      "Available 24/7",
+      "Transparent pricing",
+      "Reporting available",
+      "Business scheduling"
+    ],
+    "cta": {
+      "partner": "Become a Partner",
+      "pricing": "View rates",
+      "contactHref": "/contact",
+      "pricingHref": "/tariffs",
+      "phoneLabel": "Call now",
+      "phoneNumber": "06 25 375 323"
+    },
+    "trusted": "Trusted by",
+    "footnote": "We work with garages, dealers and body shops throughout the Amsterdam region.",
+    "logos": [
+      { "src": "/images/logos/bosch.svg", "alt": "Bosch Car Service" },
+      { "src": "/images/logos/ander.svg", "alt": "Partner" },
+      { "src": "/images/logos/dealer.svg", "alt": "Dealer network" }
+    ]
+  }
+}

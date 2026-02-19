@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "diensten": "Services",
+    "tarieven": "Rates",
+    "nieuws": "News",
+    "overOns": "About us",
+    "contact": "Contact"
+  },
+  "phone": {
+    "label": "Call now —",
+    "number": "06 25 375 323"
+  },
+  "cta": {
+    "callNow": "Call now",
+    "partnerButton": "Become a Partner"
+  }
+}

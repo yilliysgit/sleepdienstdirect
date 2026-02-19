@@ -1,0 +1,356 @@
+{
+  "hero": {
+    "badge": "24/7 Direct Beschikbaar",
+    "title": {
+      "line1": "Autopech in",
+      "line2": "Amsterdam?",
+      "line3": "Binnen 30 minuten professioneel geholpen."
+    },
+    "subtitle": "Gecertificeerde chauffeurs met transparante tarieven voor heel Amsterdam.",
+    "features": {
+      "fast": "Snelle responstijd",
+      "transparent": "Transparante prijzen",
+      "insured": "Volledig verzekerd"
+    },
+    "cta": {
+      "call": "Bel Direct: 06 25 375 323",
+      "prices": "Bekijk Tarieven"
+    },
+    "trust": {
+      "location": "Heel Amsterdam en omgeving",
+      "insurance": "Verzekerd"
+    }
+  },
+  "diensten": {
+    "badge": "Onze Diensten",
+    "title": {
+      "line1": "Sleepdienst Amsterdam",
+      "line2": "voor elke situatie"
+    },
+    "subtitle": "Van personenwagens tot bestelwagens - wij slepen alles in Amsterdam en omgeving. Binnen 30 minuten ter plaatse met gecertificeerde chauffeurs.",
+    "services": {
+      "autos": {
+        "title": "Auto's slepen",
+        "subtitle": "Personenwagens - 24/7",
+        "features": [
+          "Binnen 30 min ter plaatse",
+          "Alle personenwagens",
+          "Pechhulp & berging",
+          "Accu service"
+        ]
+      },
+      "busjes": {
+        "title": "Busjes slepen",
+        "subtitle": "Bestelwagens tot 3500kg",
+        "features": [
+          "Sprinter, Transit, Crafter",
+          "Bedrijfswagens",
+          "Laad- & lospunten",
+          "Veilig & verzekerd"
+        ]
+      },
+      "mini": {
+        "title": "Mini busjes L1",
+        "subtitle": "Compacte stadsbusjes",
+        "features": [
+          "L1 voertuigen",
+          "Smalle straten",
+          "Parkeergarages",
+          "Stadscentrum"
+        ]
+      },
+      "dubbel": {
+        "title": "Motor & Scooter",
+        "subtitle": "Tweewielers - veilig vervoerd",
+        "features": [
+          "Motoren & scooters",
+          "Speciale bevestiging",
+          "Beschermd transport",
+          "Heel Nederland"
+        ]
+      },
+      "oldtimer": {
+        "title": "Oldtimers",
+        "subtitle": "Klassiekers - met zorg",
+        "features": [
+          "Gesloten transport optie",
+          "Ervaren chauffeurs",
+          "Verzekerd tot €50.000",
+          "Shows & evenementen"
+        ]
+      },
+      "sloop": {
+        "title": "Sloopauto's",
+        "subtitle": "Wij kopen uw auto",
+        "features": [
+          "Directe uitbetaling",
+          "Gratis ophalen",
+          "Officieel gesloopt",
+          "Correcte afmelding"
+        ]
+      }
+    },
+    "trust": {
+      "title": "Waarom kiezen voor Sleepdienst Direct?",
+      "subtitle": "Binnen 30 minuten ter plaatse • Transparante prijzen • 24/7 bereikbaar"
+    },
+    "cta": {
+      "call": "Bel Direct",
+      "moreInfo": "Meer info"
+    }
+  },
+  "hoeHetWerkt": {
+    "badge": "Simpel proces",
+    "title": {
+      "line1": "In 3 stappen zijn wij",
+      "line2": "bij je auto"
+    },
+    "subtitle": "Snel, transparant en zonder gedoe. Binnen 30 minuten staan we bij je in Amsterdam.",
+    "stappen": {
+      "bellen": {
+        "title": "Bel ons direct",
+        "subtitle": "We nemen meteen op",
+        "description": "Bel ons op 06 25 375 323 of vraag online aan. We zijn 24/7 bereikbaar en staan altijd voor je klaar.",
+        "features": [
+          "Direct persoonlijk contact",
+          "Geen wachttijden",
+          "24/7 bereikbaar"
+        ]
+      },
+      "locatie": {
+        "title": "Geef locatie door",
+        "subtitle": "Binnen 30 minuten ter plaatse",
+        "description": "Vertel ons waar je bent en wat er aan de hand is. Onze chauffeur is binnen 30 minuten bij je in Amsterdam.",
+        "features": [
+          "GPS tracking",
+          "Live updates",
+          "Snelle responstijd"
+        ]
+      },
+      "slepen": {
+        "title": "Wij slepen je voertuig",
+        "subtitle": "Veilig naar bestemming",
+        "description": "We vervoeren je auto, busje of mini busje professioneel en verzekerd naar de gewenste locatie.",
+        "features": [
+          "100% verzekerd",
+          "Professionele chauffeurs",
+          "Vaste prijzen"
+        ]
+      }
+    },
+    "cta": {
+      "title": {
+        "line1": "Pech in Amsterdam?",
+        "line2": "Wij komen direct!"
+      },
+      "subtitle": "24/7 bereikbaar • Binnen 30 minuten ter plaatse • 100% verzekerd",
+      "stats": {
+        "time": {
+          "value": "≈ 30",
+          "label": "Minuten"
+        },
+        "available": {
+          "value": "24/7",
+          "label": "Bereikbaar"
+        },
+        "insured": {
+          "value": "100%",
+          "label": "Verzekerd"
+        }
+      },
+      "call": "Bel: 06 25 375 323",
+      "request": "Online Aanvragen",
+      "guarantee": "100% Veilig transport & vaste tarieven"
+    }
+  },
+  "usp": {
+    "badge": "Meest betrouwbare keuze",
+    "title": {
+      "line1": "Waarom",
+      "line2": "10.000+ klanten",
+      "line3": "voor ons kozen in Amsterdam"
+    },
+    "subtitle": "De nummer 1 sleepdienst in Amsterdam en omgeving. Professioneel, snel en betrouwbaar sinds 2015.",
+    "items": {
+      "snelheid": {
+        "title": "Binnen 30 minuten",
+        "description": "Snelste responstijd in heel Amsterdam",
+        "stat": "< 30 min"
+      },
+      "verzekering": {
+        "title": "100% verzekerd",
+        "description": "Alle voertuigen volledig gedekt tijdens transport",
+        "stat": "€2M dekking"
+      },
+      "reviews": {
+        "title": "4.9 sterren",
+        "description": "Hoogst gewaardeerde sleepdienst Amsterdam",
+        "stat": "1.200+ reviews"
+      },
+      "bereik": {
+        "title": "Heel Amsterdam",
+        "description": "Noord, Zuid, Oost, West - wij dekken alles",
+        "stat": "24/7 bereikbaar"
+      }
+    },
+    "socialProof": {
+      "rating": "4.9/5",
+      "reviewsText": "uit 1.200+ reviews",
+      "stats": {
+        "customers": {
+          "value": "10K+",
+          "label": "Tevreden klanten"
+        },
+        "available": {
+          "value": "24/7",
+          "label": "Altijd bereikbaar"
+        }
+      }
+    },
+    "serviceArea": {
+      "title": {
+        "line1": "Sleepdienst in",
+        "line2": "heel Amsterdam en omgeving"
+      },
+      "subtitle": "Binnen 30 minuten bij je, waar je ook bent",
+      "locations": [
+        "Amsterdam Centrum",
+        "Amsterdam Noord",
+        "Amsterdam Zuid",
+        "Amsterdam Oost",
+        "Amsterdam West",
+        "Amsterdam Zuidoost",
+        "Amstelveen",
+        "Diemen",
+        "Zaandam",
+        "Hoofddorp",
+        "Haarlem",
+        "Purmerend"
+      ],
+      "cta": {
+        "text": "Staat jouw locatie er niet bij?",
+        "button": "Bel ons: 06 25 375 323"
+      }
+    }
+  },
+  "voorWie": {
+    "badge": "Voor wie wij rijden",
+    "title": {
+      "line1": "Échte zekerheid voor",
+      "line2": "particulier én zakelijk"
+    },
+    "subtitle": "Wij helpen dag en nacht: van pech onderweg tot gepland transport. Kies jouw situatie hieronder.",
+    "segments": {
+      "particulier": {
+        "label": "Particulieren",
+        "kicker": "Pech onderweg of thuis",
+        "title": "Snel geholpen – zonder gedoe",
+        "copy": "Wij regelen direct alles voor je: ophalen, veilig vervoer en afleveren op jouw gewenste locatie. Vaste prijzen en 100% verzekerd.",
+        "bullets": [
+          "Binnen 30 minuten ter plaatse in Amsterdam",
+          "Vaste tarieven, geen verrassingen",
+          "Haal- en brengservice naar garage of huis"
+        ],
+        "stats": [
+          { "label": "Gem. wachttijd", "value": "≈ 28 min" },
+          { "label": "Klanttevredenheid", "value": "4.9★" },
+          { "label": "Bereikbaar", "value": "24/7" }
+        ]
+      },
+      "garages": {
+        "label": "Garages & dealers",
+        "kicker": "Dagelijks transport",
+        "title": "Zakelijke sleepservice op afroep",
+        "copy": "Efficiënte aan- en afvoer van voertuigen. Duidelijke afspraken, factuur per rit of verzamelfactuur en prioriteitsservice.",
+        "bullets": [
+          "Vaste ophaakuren & spoed mogelijk",
+          "Batchtransport en sleuteloverdracht",
+          "Portaal-/platformwagen beschikbaar"
+        ],
+        "stats": [
+          { "label": "Doorlooptijd", "value": "≤ 60 min" },
+          { "label": "No-show", "value": "< 1%" },
+          { "label": "Betaalopties", "value": "Factuur" }
+        ]
+      },
+      "lease": {
+        "label": "Leasemaatschappijen",
+        "kicker": "Fleet & mobiliteit",
+        "title": "SLAs & rapportage inbegrepen",
+        "copy": "Wij dekken Amsterdam en omgeving met heldere KPI's. Realtime statusupdates voor berijders en dispatch.",
+        "bullets": [
+          "SLA-responstijd 30–45 min",
+          "Status via portal / CSV-export",
+          "Vervangend vervoer optioneel (op aanvraag)"
+        ],
+        "stats": [
+          { "label": "Dekgebied", "value": "A'dam e.o." },
+          { "label": "Uptime", "value": "24/7" },
+          { "label": "Rapportage", "value": "Maandelijks" }
+        ]
+      },
+      "schade": {
+        "label": "Schadebedrijven",
+        "kicker": "Schade & total-loss",
+        "title": "Schade-transport met zorg",
+        "copy": "Ervaren chauffeurs en het juiste materieel. Fotodocumentatie bij ophalen, afdekken waar nodig en zorgvuldige aflevering.",
+        "bullets": [
+          "Fotolog bij afhalen",
+          "Trekhaak/air-susp. vriendelijk",
+          "Schadevrij transport, verzekerd"
+        ],
+        "stats": [
+          { "label": "Incidenten", "value": "0,0%*" },
+          { "label": "Materieel", "value": "Portaal & plateau" },
+          { "label": "Verzekerd", "value": "100%" }
+        ]
+      }
+    },
+    "cta": {
+      "call": "Bel: 06 25 375 323",
+      "request": "Online Aanvragen"
+    },
+    "partners": {
+      "title": "Voorbeeld partners"
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Veelgestelde vragen",
+    "description": "Alles wat je wilt weten over onze sleepdienst in Amsterdam.",
+    "items": [
+      {
+        "question": "Hoe snel zijn jullie ter plaatse?",
+        "answer": "In Amsterdam mikken we op 30 minuten. In de rest van de regio afhankelijk van verkeer en afstand."
+      },
+      {
+        "question": "Voor welke voertuigen rijden jullie?",
+        "answer": "We slepen personenauto's, busjes & bedrijfswagens (tot L1/3.5t) en mini busjes. Ook motoren en oldtimers kunnen we vervoeren."
+      },
+      {
+        "question": "Hoe zit het met de verzekering?",
+        "answer": "Transport is 100% verzekerd. Je voertuig is gedekt gedurende de hele rit met een dekking tot €2 miljoen."
+      },
+      {
+        "question": "Wat kost een rit?",
+        "answer": "We hanteren vaste tarieven per zone. Bel ons op 06 25 375 323 voor een scherpe prijs of vraag online aan."
+      },
+      {
+        "question": "Zijn jullie 24/7 bereikbaar?",
+        "answer": "Ja! We zijn dag en nacht bereikbaar voor spoedhulp. Ook in het weekend en op feestdagen staan we voor je klaar."
+      },
+      {
+        "question": "Waar leveren jullie mijn auto af?",
+        "answer": "We brengen je auto naar een garage naar keuze, je huis of een andere locatie in Amsterdam en omgeving."
+      },
+      {
+        "question": "Kan ik meerijden in de sleepwagen?",
+        "answer": "Ja, er is plaats voor één persoon naast de chauffeur. Extra passagiers kunnen helaas niet mee vanwege verzekeringseisen."
+      },
+      {
+        "question": "Accepteren jullie creditcards?",
+        "answer": "Ja, we accepteren contant, pin en creditcards. Voor zakelijke klanten bieden we ook factuurbetalingen aan."
+      }
+    ]
+  }
+}

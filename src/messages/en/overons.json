@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "eyebrow": "About Towing Service Direct",
+    "title": "Fast, safe and professional",
+    "highlight": "towing service in Amsterdam",
+    "subtitle": "We help motorists, businesses and leasing companies daily with the safe transportation of vehicles — 24/7 available and on average on location within 30 minutes.",
+    "badges": [
+      "±30 min on site",
+      "100% insured",
+      "Cars • Vans L1"
+    ],
+    "stats": {
+      "vehicles": {
+        "value": "5,000+",
+        "label": "Vehicles helped"
+      },
+      "satisfaction": {
+        "value": "4.9★",
+        "label": "Customer satisfaction"
+      },
+      "availability": {
+        "value": "24/7",
+        "label": "Available"
+      }
+    },
+    "statsDescription": "Our drivers work with modern equipment and every ride is fully insured. Breakdown, damage or planned transport — we arrange it safely and quickly.",
+    "cta": {
+      "call": "Call:",
+      "whatsapp": "WhatsApp",
+      "service": "More about our service"
+    }
+  },
+  "mission": {
+    "title": "Our mission",
+    "description": "We make roadside breakdowns as stress-free as possible. With modern tow trucks, trained drivers and clear communication, we ensure you can continue your journey quickly.",
+    "items": {
+      "fast": {
+        "title": "Fast on site",
+        "text": "On average within ±30 minutes in Amsterdam and surrounding area. Our drivers are always ready to help you."
+      },
+      "insured": {
+        "title": "100% insured",
+        "text": "Every ride is fully insured and carried out by experienced, certified drivers with years of expertise."
+      },
+      "pricing": {
+        "title": "Fair fixed prices",
+        "text": "Transparent rates without surprises. Everything is clearly communicated in advance, so you know what to expect."
+      }
+    }
+  },
+  "photoBand": {
+    "captionTitle": "Modern equipment • safe working method",
+    "captionText": "Our tow trucks are equipped with professional tools and are exclusively operated by experienced drivers. Every transport is 100% insured.",
+    "features": {
+      "modern": {
+        "title": "Modern tow trucks",
+        "text": "Equipped with the latest technology and professional tools"
+      },
+      "insured": {
+        "title": "Fully insured",
+        "text": "Every ride is 100% insured for maximum peace of mind"
+      },
+      "certified": {
+        "title": "Certified drivers",
+        "text": "Experienced professionals with years of expertise in the field"
+      }
+    }
+  },
+  "timeline": {
+    "title": "Our milestones",
+    "subtitle": "From local roadside assistance to a full-fledged partner in Amsterdam and surroundings",
+    "items": {
+      "start": {
+        "year": "2018",
+        "title": "Launch in Amsterdam",
+        "text": "Focus on roadside assistance and recovery within the ring and surrounding districts. A small team with big ambitions."
+      },
+      "expansion": {
+        "year": "2020",
+        "title": "Fleet expansion",
+        "text": "Investment in modern tow trucks and professional equipment. Better response times through strategic planning and optimization."
+      },
+      "partnerships": {
+        "year": "2022",
+        "title": "Business partnerships",
+        "text": "Structural cooperation with garages, damage companies and fleet departments. Regular partner for multiple leasing companies."
+      },
+      "regional": {
+        "year": "2024",
+        "title": "Regional coverage",
+        "text": "Fast deployment throughout Amsterdam and surroundings. 24/7 available with experienced drivers and modern equipment."
+      }
+    },
+    "cta": "And we keep growing!"
+  },
+  "cases": {
+    "title": "Real-world examples",
+    "subtitle": "Every day we help motorists and businesses in and around Amsterdam",
+    "items": {
+      "motorStoring": {
+        "title": "Car with engine failure A10",
+        "desc": "Vehicle safely transported to garage in Amsterdam-West within 25 minutes. No damage, no stress."
+      },
+      "bestelbus": {
+        "title": "Van breakdown in city center",
+        "desc": "Mercedes Sprinter picked up in narrow street in Jordaan, delivered damage-free to dealer within 2 hours."
+      },
+      "aanrijding": {
+        "title": "Collision near IJburg",
+        "desc": "Towing service deployed immediately after collision. Full insurance handled with damage company, car safely to repair."
+      }
+    }
+  },
+  "compliance": {
+    "title": "Safety & Reliability come first",
+    "items": {
+      "insured": "100% insured transport",
+      "transparent": "Transparent administration",
+      "secure": "Secure vehicle management",
+      "certified": "Certified recovery company"
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently asked questions",
+    "title": "Questions about Towing Service Direct?",
+    "description": "Everything you want to know about our services and working method",
+    "items": [
+      {
+        "question": "How fast can you be on location?",
+        "answer": "On average we are on location within 30 minutes in Amsterdam and immediate surroundings. We always strive to be as fast as possible, especially in emergency situations."
+      },
+      {
+        "question": "Which vehicles can you tow?",
+        "answer": "We tow passenger cars, vans (up to and including L1), and small commercial vehicles. Whether it's an electric car, automatic or manual transmission - we have the right equipment."
+      },
+      {
+        "question": "Do you work with leasing companies?",
+        "answer": "Yes, we work structurally with multiple leasing companies, garages and damage companies. We know their procedures and ensure correct handling."
+      },
+      {
+        "question": "Are you available 24/7?",
+        "answer": "Yes, we are available day and night. Whether it's in the middle of the night or during a holiday - we're ready to help with breakdowns or damage."
+      },
+      {
+        "question": "What about insurance?",
+        "answer": "Every transport is fully insured. We work according to all safety standards and protocols, and our drivers are certified and experienced."
+      },
+      {
+        "question": "Can you move my car without damage?",
+        "answer": "Absolutely. We use modern tow trucks with professional tools such as wheel dollies and tie-down straps. Damage-free transport is our priority."
+      }
+    ]
+  }
+}

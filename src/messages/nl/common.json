@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "diensten": "Diensten",
+    "tarieven": "Tarieven",
+    "nieuws": "Nieuws",
+    "overOns": "Over ons",
+    "contact": "Contact"
+  },
+  "phone": {
+    "label": "Bel direct —",
+    "number": "06 25 375 323"
+  },
+  "cta": {
+    "callNow": "Bel nu",
+    "partnerButton": "Partner worden"
+  }
+}

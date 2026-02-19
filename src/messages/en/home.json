@@ -1,0 +1,356 @@
+{
+  "hero": {
+    "badge": "Available 24/7",
+    "title": {
+      "line1": "Car trouble in",
+      "line2": "Amsterdam?",
+      "line3": "Professional help within 30 minutes."
+    },
+    "subtitle": "Certified drivers with transparent rates across all of Amsterdam.",
+    "features": {
+      "fast": "Fast response time",
+      "transparent": "Transparent pricing",
+      "insured": "Fully insured"
+    },
+    "cta": {
+      "call": "Call Now: 06 25 375 323",
+      "prices": "View Rates"
+    },
+    "trust": {
+      "location": "All of Amsterdam and surroundings",
+      "insurance": "Insured"
+    }
+  },
+  "diensten": {
+    "badge": "Our Services",
+    "title": {
+      "line1": "Towing Service Amsterdam",
+      "line2": "for every situation"
+    },
+    "subtitle": "From passenger cars to vans — we tow everything in and around Amsterdam. On-site within 30 minutes with certified drivers.",
+    "services": {
+      "autos": {
+        "title": "Car towing",
+        "subtitle": "Passenger vehicles - 24/7",
+        "features": [
+          "On-site within 30 minutes",
+          "All passenger cars",
+          "Roadside assistance & recovery",
+          "Battery service"
+        ]
+      },
+      "busjes": {
+        "title": "Van towing",
+        "subtitle": "Commercial vans up to 3500kg",
+        "features": [
+          "Sprinter, Transit, Crafter",
+          "Company vehicles",
+          "Loading & unloading points",
+          "Safe & insured"
+        ]
+      },
+      "mini": {
+        "title": "Small vans L1",
+        "subtitle": "Compact city vans",
+        "features": [
+          "L1 vehicles",
+          "Narrow streets",
+          "Parking garages",
+          "City center access"
+        ]
+      },
+      "dubbel": {
+        "title": "Motorcycle & Scooter",
+        "subtitle": "Two-wheelers - safely transported",
+        "features": [
+          "Motorcycles & scooters",
+          "Special mounting",
+          "Protected transport",
+          "All Netherlands"
+        ]
+      },
+      "oldtimer": {
+        "title": "Classic cars",
+        "subtitle": "Classics - with care",
+        "features": [
+          "Enclosed transport option",
+          "Experienced drivers",
+          "Insured up to €50,000",
+          "Shows & events"
+        ]
+      },
+      "sloop": {
+        "title": "Scrap cars",
+        "subtitle": "We buy your car",
+        "features": [
+          "Immediate payment",
+          "Free pickup",
+          "Officially scrapped",
+          "Proper deregistration"
+        ]
+      }
+    },
+    "trust": {
+      "title": "Why choose Towing Service Direct?",
+      "subtitle": "On-site within 30 minutes • Transparent prices • 24/7 availability"
+    },
+    "cta": {
+      "call": "Call Now",
+      "moreInfo": "More Info"
+    }
+  },
+  "hoeHetWerkt": {
+    "badge": "Simple process",
+    "title": {
+      "line1": "In 3 steps, we're",
+      "line2": "at your car"
+    },
+    "subtitle": "Fast, transparent and hassle-free. We're at your location in Amsterdam within 30 minutes.",
+    "stappen": {
+      "bellen": {
+        "title": "Call us directly",
+        "subtitle": "We answer immediately",
+        "description": "Call us at 06 25 375 323 or request online. We're available 24/7 and always ready to help.",
+        "features": [
+          "Direct personal contact",
+          "No waiting times",
+          "Available 24/7"
+        ]
+      },
+      "locatie": {
+        "title": "Share your location",
+        "subtitle": "On-site within 30 minutes",
+        "description": "Tell us where you are and what's going on. Our driver will be with you within 30 minutes anywhere in Amsterdam.",
+        "features": [
+          "GPS tracking",
+          "Live updates",
+          "Fast response time"
+        ]
+      },
+      "slepen": {
+        "title": "We tow your vehicle",
+        "subtitle": "Safely to your destination",
+        "description": "We professionally and securely transport your car, van, or small van to your preferred location.",
+        "features": [
+          "100% insured",
+          "Professional drivers",
+          "Fixed pricing"
+        ]
+      }
+    },
+    "cta": {
+      "title": {
+        "line1": "Car trouble in Amsterdam?",
+        "line2": "We'll come right away!"
+      },
+      "subtitle": "Available 24/7 • On-site within 30 minutes • 100% insured",
+      "stats": {
+        "time": {
+          "value": "≈ 30",
+          "label": "Minutes"
+        },
+        "available": {
+          "value": "24/7",
+          "label": "Available"
+        },
+        "insured": {
+          "value": "100%",
+          "label": "Insured"
+        }
+      },
+      "call": "Call: 06 25 375 323",
+      "request": "Request Online",
+      "guarantee": "100% Safe transport & fixed rates"
+    }
+  },
+  "usp": {
+    "badge": "Most reliable choice",
+    "title": {
+      "line1": "Why",
+      "line2": "10,000+ customers",
+      "line3": "chose us in Amsterdam"
+    },
+    "subtitle": "The #1 towing service in Amsterdam and surroundings. Professional, fast and reliable since 2015.",
+    "items": {
+      "snelheid": {
+        "title": "Within 30 minutes",
+        "description": "Fastest response time in all of Amsterdam",
+        "stat": "< 30 min"
+      },
+      "verzekering": {
+        "title": "100% insured",
+        "description": "All vehicles fully covered during transport",
+        "stat": "€2M coverage"
+      },
+      "reviews": {
+        "title": "4.9 stars",
+        "description": "Highest rated towing service Amsterdam",
+        "stat": "1,200+ reviews"
+      },
+      "bereik": {
+        "title": "All Amsterdam",
+        "description": "North, South, East, West - we cover everything",
+        "stat": "24/7 available"
+      }
+    },
+    "socialProof": {
+      "rating": "4.9/5",
+      "reviewsText": "from 1,200+ reviews",
+      "stats": {
+        "customers": {
+          "value": "10K+",
+          "label": "Happy customers"
+        },
+        "available": {
+          "value": "24/7",
+          "label": "Always available"
+        }
+      }
+    },
+    "serviceArea": {
+      "title": {
+        "line1": "Towing service in",
+        "line2": "all Amsterdam and surroundings"
+      },
+      "subtitle": "With you within 30 minutes, wherever you are",
+      "locations": [
+        "Amsterdam Center",
+        "Amsterdam North",
+        "Amsterdam South",
+        "Amsterdam East",
+        "Amsterdam West",
+        "Amsterdam Southeast",
+        "Amstelveen",
+        "Diemen",
+        "Zaandam",
+        "Hoofddorp",
+        "Haarlem",
+        "Purmerend"
+      ],
+      "cta": {
+        "text": "Is your location not listed?",
+        "button": "Call us: 06 25 375 323"
+      }
+    }
+  },
+  "voorWie": {
+    "badge": "Who we serve",
+    "title": {
+      "line1": "Real reliability for",
+      "line2": "private and business customers"
+    },
+    "subtitle": "We assist day and night — from roadside emergencies to planned transport. Choose your situation below.",
+    "segments": {
+      "particulier": {
+        "label": "Private customers",
+        "kicker": "Breakdown at home or on the road",
+        "title": "Quick help — no hassle",
+        "copy": "We handle everything for you: pick-up, safe transport, and delivery at your preferred location. Fixed prices and 100% insured.",
+        "bullets": [
+          "On-site within 30 minutes in Amsterdam",
+          "Fixed rates, no surprises",
+          "Pick-up & delivery to home or garage"
+        ],
+        "stats": [
+          { "label": "Avg. response time", "value": "≈ 28 min" },
+          { "label": "Customer rating", "value": "4.9★" },
+          { "label": "Availability", "value": "24/7" }
+        ]
+      },
+      "garages": {
+        "label": "Garages & dealers",
+        "kicker": "Daily transport",
+        "title": "On-call towing for businesses",
+        "copy": "Efficient pick-up and delivery of vehicles. Clear agreements, per-trip or grouped invoices, and priority service.",
+        "bullets": [
+          "Fixed pick-up times & urgent options",
+          "Batch transport and key exchange",
+          "Flatbed & wheel-lift trucks available"
+        ],
+        "stats": [
+          { "label": "Turnaround time", "value": "≤ 60 min" },
+          { "label": "No-show", "value": "< 1%" },
+          { "label": "Payment", "value": "Invoice" }
+        ]
+      },
+      "lease": {
+        "label": "Leasing companies",
+        "kicker": "Fleet & mobility",
+        "title": "SLAs & reporting included",
+        "copy": "We cover Amsterdam and surroundings with clear KPIs. Real-time status updates for drivers and dispatch.",
+        "bullets": [
+          "SLA response time 30–45 min",
+          "Status via portal / CSV export",
+          "Replacement transport optional"
+        ],
+        "stats": [
+          { "label": "Coverage area", "value": "Amsterdam region" },
+          { "label": "Uptime", "value": "24/7" },
+          { "label": "Reporting", "value": "Monthly" }
+        ]
+      },
+      "schade": {
+        "label": "Body shops",
+        "kicker": "Damage & total loss",
+        "title": "Damage transport with care",
+        "copy": "Experienced drivers and proper equipment. Photo documentation on pick-up, covering when needed, and careful delivery.",
+        "bullets": [
+          "Photo log on pick-up",
+          "Tow-friendly (air-suspension)",
+          "Fully insured, damage-free transport"
+        ],
+        "stats": [
+          { "label": "Incidents", "value": "0.0%*" },
+          { "label": "Equipment", "value": "Flatbed & wheel-lift" },
+          { "label": "Insured", "value": "100%" }
+        ]
+      }
+    },
+    "cta": {
+      "call": "Call: 06 25 375 323",
+      "request": "Request Online"
+    },
+    "partners": {
+      "title": "Example partners"
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently Asked Questions",
+    "description": "Everything you need to know about our towing service in Amsterdam.",
+    "items": [
+      {
+        "question": "How quickly can you arrive?",
+        "answer": "In Amsterdam, we aim to arrive within 30 minutes. In the surrounding areas, it depends on traffic and distance."
+      },
+      {
+        "question": "What types of vehicles do you tow?",
+        "answer": "We tow passenger cars, vans & commercial vehicles (up to L1/3.5t), and small vans. We can also transport motorcycles and classic cars."
+      },
+      {
+        "question": "How does the insurance work?",
+        "answer": "Transport is 100% insured. Your vehicle is covered for the entire journey, with coverage up to €2 million."
+      },
+      {
+        "question": "How much does a tow cost?",
+        "answer": "We use fixed rates per zone. Call us at 06 25 375 323 for an exact quote or request online."
+      },
+      {
+        "question": "Are you available 24/7?",
+        "answer": "Yes! We're available day and night for emergencies — including weekends and public holidays."
+      },
+      {
+        "question": "Where do you deliver my car?",
+        "answer": "We deliver your car to a garage of your choice, your home, or another location in or around Amsterdam."
+      },
+      {
+        "question": "Can I ride along in the tow truck?",
+        "answer": "Yes, there's room for one passenger next to the driver. Extra passengers unfortunately cannot join due to insurance regulations."
+      },
+      {
+        "question": "Do you accept credit cards?",
+        "answer": "Yes, we accept cash, debit, and credit cards. For business clients, invoice payments are also available."
+      }
+    ]
+  }
+}

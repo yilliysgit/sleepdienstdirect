@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "eyebrow": "Over Sleepdienst Direct",
+    "title": "Snel, veilig en professioneel",
+    "highlight": "sleepdienst in Amsterdam",
+    "subtitle": "Wij helpen dagelijks automobilisten, bedrijven en leasemaatschappijen met het veilig vervoeren van voertuigen — 24/7 bereikbaar en gemiddeld binnen 30 minuten ter plaatse.",
+    "badges": [
+      "±30 min ter plaatse",
+      "100% verzekerd",
+      "Auto's • Busjes L1"
+    ],
+    "stats": {
+      "vehicles": {
+        "value": "5.000+",
+        "label": "Voertuigen geholpen"
+      },
+      "satisfaction": {
+        "value": "4.9★",
+        "label": "Klanttevredenheid"
+      },
+      "availability": {
+        "value": "24/7",
+        "label": "Bereikbaar"
+      }
+    },
+    "statsDescription": "Onze chauffeurs werken met modern materieel en elke rit is volledig verzekerd. Pech, schade of gepland transport — wij regelen het veilig en snel.",
+    "cta": {
+      "call": "Bel:",
+      "whatsapp": "WhatsApp",
+      "service": "Meer over onze service"
+    }
+  },
+  "mission": {
+    "title": "Onze missie",
+    "description": "We maken pech onderweg zo stressvrij mogelijk. Met moderne sleepwagens, getrainde chauffeurs en heldere communicatie zorgen we ervoor dat jij snel weer verder kunt.",
+    "items": {
+      "fast": {
+        "title": "Snel ter plaatse",
+        "text": "Gemiddeld binnen ±30 minuten in Amsterdam en directe omgeving. Onze chauffeurs staan altijd klaar om je te helpen."
+      },
+      "insured": {
+        "title": "100% verzekerd",
+        "text": "Elke rit is volledig verzekerd en uitgevoerd door ervaren, gecertificeerde chauffeurs met jarenlange expertise."
+      },
+      "pricing": {
+        "title": "Eerlijke vaste prijzen",
+        "text": "Transparante tarieven zonder verrassingen. Alles wordt vooraf duidelijk gecommuniceerd, zodat je weet waar je aan toe bent."
+      }
+    }
+  },
+  "photoBand": {
+    "captionTitle": "Modern materieel • veilige werkwijze",
+    "captionText": "Onze sleepwagens zijn uitgerust met professionele hulpmiddelen en worden uitsluitend bediend door ervaren chauffeurs. Elk transport is 100% verzekerd.",
+    "features": {
+      "modern": {
+        "title": "Moderne sleepwagens",
+        "text": "Uitgerust met de nieuwste technologie en professionele hulpmiddelen"
+      },
+      "insured": {
+        "title": "Volledig verzekerd",
+        "text": "Elke rit is 100% verzekerd voor maximale gemoedsrust"
+      },
+      "certified": {
+        "title": "Gecertificeerde chauffeurs",
+        "text": "Ervaren professionals met jarenlange expertise in het vak"
+      }
+    }
+  },
+  "timeline": {
+    "title": "Onze mijlpalen",
+    "subtitle": "Van lokale pechhulp naar een volwaardige partner in Amsterdam en omgeving",
+    "items": {
+      "start": {
+        "year": "2018",
+        "title": "Start in Amsterdam",
+        "text": "Focus op pechhulp en berging binnen de ring en omliggende wijken. Een klein team met grote ambities."
+      },
+      "expansion": {
+        "year": "2020",
+        "title": "Uitbreiding materieel",
+        "text": "Investering in moderne sleepwagens en professionele apparatuur. Betere responstijden door strategische planning en optimalisatie."
+      },
+      "partnerships": {
+        "year": "2022",
+        "title": "Zakelijke partnerships",
+        "text": "Structurele samenwerking met garages, schadebedrijven en fleet-afdelingen. Vaste partner voor meerdere leasemaatschappijen."
+      },
+      "regional": {
+        "year": "2024",
+        "title": "Regionale dekking",
+        "text": "Snelle inzet in heel Amsterdam en omgeving. 24/7 bereikbaar met ervaren chauffeurs en moderne apparatuur."
+      }
+    },
+    "cta": "En we blijven groeien!"
+  },
+  "cases": {
+    "title": "Enkele voorbeelden uit de praktijk",
+    "subtitle": "Elke dag helpen we automobilisten en bedrijven in en rond Amsterdam",
+    "items": {
+      "motorStoring": {
+        "title": "Auto met motorstoring A10",
+        "desc": "Voertuig veilig afgevoerd naar garage in Amsterdam-West binnen 25 minuten. Geen schade, geen stress."
+      },
+      "bestelbus": {
+        "title": "Bestelbus pech in centrum",
+        "desc": "Mercedes Sprinter opgehaald in smalle straat in de Jordaan, schadevrij afgeleverd bij dealer binnen 2 uur."
+      },
+      "aanrijding": {
+        "title": "Aanrijding bij IJburg",
+        "desc": "Sleepdienst direct ingezet na aanrijding. Volledige verzekering afgehandeld met schadebedrijf, auto veilig naar herstel."
+      }
+    }
+  },
+  "compliance": {
+    "title": "Veiligheid & Betrouwbaarheid staan voorop",
+    "items": {
+      "insured": "100% verzekerd vervoer",
+      "transparent": "Transparante administratie",
+      "secure": "Veilig voertuigbeheer",
+      "certified": "Erkend bergingsbedrijf"
+    }
+  },
+  "faq": {
+    "eyebrow": "Veelgestelde vragen",
+    "title": "Vragen over Sleepdienst Direct?",
+    "description": "Alles wat je wilt weten over onze dienstverlening en werkwijze",
+    "items": [
+      {
+        "question": "Hoe snel zijn jullie ter plaatse?",
+        "answer": "Gemiddeld zijn we binnen 30 minuten ter plaatse in Amsterdam en directe omgeving. We streven ernaar om altijd zo snel mogelijk te zijn, vooral in noodsituaties."
+      },
+      {
+        "question": "Welke voertuigen kunnen jullie slepen?",
+        "answer": "We slepen personenautos, bestelwagens (tot en met L1), en kleine bedrijfsvoertuigen. Of het nu een elektrische auto, automaat of handgeschakelde auto is - wij hebben de juiste apparatuur."
+      },
+      {
+        "question": "Werken jullie ook met leasemaatschappijen?",
+        "answer": "Ja, we werken structureel samen met meerdere leasemaatschappijen, garages en schadebedrijven. We kennen hun procedures en zorgen voor een correcte afhandeling."
+      },
+      {
+        "question": "Zijn jullie 24/7 bereikbaar?",
+        "answer": "Ja, we zijn dag en nacht bereikbaar. Of het nu midden in de nacht is of tijdens een vakantie - wij staan voor je klaar bij pech of schade."
+      },
+      {
+        "question": "Hoe zit het met verzekering?",
+        "answer": "Elk transport is volledig verzekerd. We werken volgens alle veiligheidsnormen en protocollen, en onze chauffeurs zijn gecertificeerd en ervaren."
+      },
+      {
+        "question": "Kunnen jullie mijn auto ook verplaatsen zonder schade?",
+        "answer": "Absoluut. We gebruiken moderne sleepwagens met professionele hulpmiddelen zoals wielkarren en spanriemen. Schadevrij transport is onze prioriteit."
+      }
+    ]
+  }
+}

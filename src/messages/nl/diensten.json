@@ -1,0 +1,130 @@
+{
+  "hero": {
+    "title": "Sleepdienst voor",
+    "highlight": "pechhulp",
+    "description": "Snel, veilig en verzekerd. We vervoeren auto's, bestelwagens en minibussen (L1) in Amsterdam en omgeving. 24/7 beschikbaar — gemiddeld binnen ±30 minuten ter plaatse.",
+    "badges": {
+      "fast": "±30 min ter plaatse",
+      "insured": "100% verzekerd",
+      "vehicles": "Auto’s • Bestelbus L1"
+    },
+    "cta": {
+      "call": "Bel nu",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "cta": {
+    "callNow": "Bel nu",
+    "number": "06 25 375 323",
+    "partnerButton": "Partner worden"
+  },
+  "services": {
+    "heading": "Onze services",
+    "subheading": "Kies wat je nodig hebt — we regelen het van A tot Z, veilig en verzekerd.",
+    "cta": "Meer info",
+    "list": [
+      {
+        "title": "Direct sleepdienst",
+        "subtitle": "Personenauto’s • 24/7",
+        "href": "/contact",
+        "image": "/images/services/direct.jpg",
+        "bullets": ["Binnen ±30 min", "Vaste prijs vooraf", "Dag & nacht"],
+        "tag": "popular",
+        "icon": "car"
+      },
+      {
+        "title": "Transporter slepen",
+        "subtitle": "Bedrijfswagens tot 3500kg",
+        "href": "/contact",
+        "image": "/images/services/transporter.jpg",
+        "bullets": ["Bedrijfswagens & L1", "Dealer/werkplaats", "Zakelijke planning"],
+        "icon": "van"
+      },
+      {
+        "title": "Schadeauto’s",
+        "subtitle": "Schade & berging",
+        "href": "/contact",
+        "image": "/images/services/schade.jpg",
+        "bullets": ["Schadebedrijven", "Volledig verzekerd", "Rapportage mogelijk"],
+        "icon": "car"
+      },
+      {
+        "title": "Oldtimers / projectauto’s",
+        "subtitle": "Klassiekers & projectauto’s",
+        "href": "/contact",
+        "image": "/images/services/oldtimer.jpg",
+        "bullets": ["Zorgvuldig laden", "Beschermingsmateriaal", "Op afspraak"],
+        "icon": "car"
+      },
+      {
+        "title": "Buitenland transport",
+        "subtitle": "Internationaal • Benelux/DE",
+        "href": "/contact",
+        "image": "/images/services/buitenland.jpg",
+        "bullets": ["BE/DE/Benelux", "Offerte vooraf", "Documenten geregeld"],
+        "icon": "van"
+      },
+      {
+        "title": "Pechhulp direct",
+        "subtitle": "Hulp op locatie",
+        "href": "/contact",
+        "image": "/images/services/pechhulp.jpg",
+        "bullets": ["Accu/lekke band", "Snel ter plaatse", "Door naar bestemming"],
+        "icon": "car"
+      }
+    ]
+  },
+  "carousel": {
+    "heading": "In de praktijk",
+    "subheading": "Echte situaties — snel en zorgvuldig opgelost.",
+    "prev": "Vorige",
+    "next": "Volgende",
+    "slides": [
+      {
+        "title": "Sedan met pech",
+        "img": "/images/carousel/sedan.jpg",
+        "caption": "Binnen 25 min opgehaald – naar garage West."
+      },
+      {
+        "title": "Bestelbus L1",
+        "img": "/images/carousel/l1.jpg",
+        "caption": "Schadevrij geladen in smalle straat."
+      },
+      {
+        "title": "Oldtimer",
+        "img": "/images/carousel/old.jpg",
+        "caption": "Beschermd vervoer op afspraak."
+      },
+      {
+        "title": "Schadeauto",
+        "img": "/images/carousel/schade.jpg",
+        "caption": "Direct door naar schadebedrijf."
+      }
+    ]
+  },
+  "partnerBand": {
+    "title": "Samenwerken met schadebedrijven, garages of autohandelaren",
+    "subtitle": "Betrouwbare partner voor berging, vervoer en planning op maat. Heldere tarieven, rapportage mogelijk en 24/7 inzetbaar.",
+    "highlights": [
+      "24/7 inzetbaar",
+      "Heldere tarieven",
+      "Rapportage mogelijk",
+      "Zakelijke planning"
+    ],
+    "cta": {
+      "partner": "Word partner",
+      "pricing": "Bekijk tarieven",
+      "contactHref": "/contact",
+      "pricingHref": "/tarieven",
+      "phoneLabel": "Bel direct",
+      "phoneNumber": "06 25 375 323"
+    },
+    "trusted": "Vertrouwd door",
+    "footnote": "Wij rijden voor garages, dealers en schadeherstelbedrijven in Amsterdam en omgeving.",
+    "logos": [
+      { "src": "/images/logos/bosch.svg", "alt": "Bosch Car Service" },
+      { "src": "/images/logos/ander.svg", "alt": "Partner" },
+      { "src": "/images/logos/dealer.svg", "alt": "Dealer netwerk" }
+    ]
+  }
+}

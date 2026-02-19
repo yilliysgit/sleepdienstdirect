@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "badge": "Contact",
+    "title": {
+      "line1": "Need help?",
+      "line2": "We’re here for you."
+    },
+    "subtitle": "Available 24/7 for emergencies. Call directly or fill out the form below.",
+    "badges": {
+      "time": "Within 30 min",
+      "insured": "100% insured",
+      "vehicles": "All vehicles"
+    },
+    "cta": {
+      "phone": {
+        "label": "Call: 06 25 375 323",
+        "href": "tel:0625375323"
+      },
+      "whatsapp": {
+        "label": "WhatsApp",
+        "href": "https://wa.me/31625375323"
+      }
+    }
+  },
+  "form": {
+    "title": "Ask your question or schedule transport",
+    "subtitle": "We usually respond within a few minutes.",
+    "fields": {
+      "name": {
+        "label": "Name",
+        "placeholder": "First and last name"
+      },
+      "phone": {
+        "label": "Phone number",
+        "placeholder": "06 12 34 56 78"
+      },
+      "email": {
+        "label": "Email (optional)",
+        "placeholder": "you@email.com"
+      },
+      "location": {
+        "label": "Current location",
+        "placeholder": "e.g. Jan Evertsenstraat 12, Amsterdam"
+      },
+      "destination": {
+        "label": "Destination (optional)",
+        "placeholder": "Garage / delivery address"
+      },
+      "vehicle": {
+        "label": "Vehicle (make/model/features)",
+        "placeholder": "e.g. VW Golf automatic, low"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Briefly describe the situation and where the car should go..."
+      }
+    },
+    "consent": "I agree that my details may be used to contact me.",
+    "submit": "Send",
+    "submitting": "Sending...",
+    "callInstead": "Prefer to call",
+    "validation": {
+      "required": "Please fill in all required fields and give consent for contact.",
+      "error": "Something went wrong while sending. Please try again or call us directly.",
+      "success": "Thank you! We’ll contact you as soon as possible."
+    }
+  },
+  "details": {
+    "title": "Direct contact",
+    "subtitle": "Available 24/7 – average arrival within 30 minutes.",
+    "phone": { "label": "Call directly" },
+    "whatsapp": { "label": "Chat via WhatsApp" },
+    "email": { "label": "Email us" },
+    "stats": {
+      "time": "Response time",
+      "available": "Availability",
+      "insured": "Insured"
+    },
+    "social": {
+      "title": "Follow & message us",
+      "subtitle": "We also respond via social media."
+    },
+    "company": {
+      "title": "Billing address",
+      "kvk": "Chamber of Commerce (KVK)",
+      "btw": "VAT number"
+    },
+    "hours": {
+      "title": "Opening hours",
+      "days": "Mon–Sun"
+    }
+  },
+  "serviceArea": {
+    "badge": "Service Area",
+    "title": "All of Amsterdam and surroundings",
+    "subtitle": "We'll be with you within 30 minutes, wherever you are in the region.",
+    "coverageTitle": "We cover these areas",
+    "areas": [
+      "Amsterdam Center",
+      "Amsterdam North",
+      "Amsterdam South",
+      "Amsterdam East",
+      "Amsterdam West",
+      "Amsterdam Southeast",
+      "Amstelveen",
+      "Diemen",
+      "Zaandam",
+      "Hoofddorp",
+      "Haarlem",
+      "Purmerend"
+    ],
+    "otherLocation": "🚗 Your location not listed? Call us – we often go further!",
+    "mapTitle": "Map – Towing service coverage area Amsterdam",
+    "noMap": "Map not available",
+    "stats": {
+      "responseTime": "Minutes",
+      "available": "Available",
+      "coverage": "Coverage"
+    }
+  },
+  "payment": {
+    "title": "Payment & Invoicing",
+    "subtitle": "Multiple payment options and transparent rates",
+    "items": {
+      "methods": { "label": "Payment methods", "value": "Debit card • iDEAL (payment link) • Invoice" },
+      "rates": { "label": "Rates", "value": "Fixed zones, price communicated in advance" },
+      "invoice": { "label": "Invoicing", "value": "Chamber of Commerce 52023223 • VAT NL102397035B01" }
+    },
+    "extra": {
+      "title": "Need a business invoice?",
+      "description": "We provide detailed invoices with all required information for your administration. Payment term: 14 days."
+    }
+  },
+  "finalCta": {
+    "title": {
+      "line1": "Ready to get",
+      "line2": "helped?"
+    },
+    "features": {
+      "speed": "±30 min response time",
+      "insured": "100% insured"
+    },
+    "cta": {
+      "call": "Call: 06 25 375 323",
+      "whatsapp": "WhatsApp"
+    },
+    "footer": "Towing Service Direct operates throughout Amsterdam and the surrounding area: from Centre to North, East, West and South. We assist private customers, garages, leasing companies and body shops with fast and insured vehicle transport."
+  }
+}

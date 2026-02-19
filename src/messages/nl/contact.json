@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "badge": "Contact",
+    "title": {
+      "line1": "Hulp nodig?",
+      "line2": "Wij staan voor je klaar."
+    },
+    "subtitle": "24/7 bereikbaar voor noodgevallen. Bel direct of vul het formulier hieronder in.",
+    "badges": {
+      "time": "Binnen 30 min",
+      "insured": "100% verzekerd",
+      "vehicles": "Alle voertuigen"
+    },
+    "cta": {
+      "phone": {
+        "label": "Bel: 06 25 375 323",
+        "href": "tel:0625375323"
+      },
+      "whatsapp": {
+        "label": "WhatsApp",
+        "href": "https://wa.me/31625375323"
+      }
+    }
+  },
+  "form": {
+    "title": "Stel je vraag of plan vervoer",
+    "subtitle": "We reageren meestal binnen enkele minuten.",
+    "fields": {
+      "name": {
+        "label": "Naam",
+        "placeholder": "Voor- en achternaam"
+      },
+      "phone": {
+        "label": "Telefoonnummer",
+        "placeholder": "06 12 34 56 78"
+      },
+      "email": {
+        "label": "E-mail (optioneel)",
+        "placeholder": "jouw@email.nl"
+      },
+      "location": {
+        "label": "Huidige locatie",
+        "placeholder": "Bijv. Jan Evertsenstraat 12, Amsterdam"
+      },
+      "destination": {
+        "label": "Bestemming (optioneel)",
+        "placeholder": "Garage / afleveradres"
+      },
+      "vehicle": {
+        "label": "Voertuig (merk/model/kenmerken)",
+        "placeholder": "Bijv. VW Golf automaat, laag"
+      },
+      "message": {
+        "label": "Bericht",
+        "placeholder": "Beschrijf kort de situatie en waar de auto heen moet..."
+      }
+    },
+    "consent": "Ik ga akkoord dat mijn gegevens worden gebruikt om contact op te nemen.",
+    "submit": "Versturen",
+    "submitting": "Verzenden...",
+    "callInstead": "Liever bellen",
+    "validation": {
+      "required": "Vul alle verplichte velden in en geef toestemming voor contact.",
+      "error": "Er ging iets mis bij het verzenden. Probeer het opnieuw of bel ons direct.",
+      "success": "Bedankt! We nemen zo snel mogelijk contact met je op."
+    }
+  },
+  "details": {
+    "title": "Direct contact",
+    "subtitle": "24/7 bereikbaar – gemiddeld binnen 30 minuten ter plaatse.",
+    "phone": { "label": "Bel direct" },
+    "whatsapp": { "label": "Chat via WhatsApp" },
+    "email": { "label": "E-mail ons" },
+    "stats": {
+      "time": "Responstijd",
+      "available": "Bereikbaar",
+      "insured": "Verzekerd"
+    },
+    "social": {
+      "title": "Volg & bericht ons",
+      "subtitle": "We reageren ook via social media."
+    },
+    "company": {
+      "title": "Factuuradres",
+      "kvk": "KVK-nummer",
+      "btw": "BTW-nummer"
+    },
+    "hours": {
+      "title": "Openingstijden",
+      "days": "Ma–Zo"
+    }
+  },
+  "serviceArea": {
+    "badge": "Servicegebied",
+    "title": "Heel Amsterdam en omgeving",
+    "subtitle": "Binnen 30 minuten bij je, waar je ook bent in de regio.",
+    "coverageTitle": "Wij dekken deze gebieden",
+    "areas": [
+      "Amsterdam Centrum",
+      "Amsterdam Noord",
+      "Amsterdam Zuid",
+      "Amsterdam Oost",
+      "Amsterdam West",
+      "Amsterdam Zuidoost",
+      "Amstelveen",
+      "Diemen",
+      "Zaandam",
+      "Hoofddorp",
+      "Haarlem",
+      "Purmerend"
+    ],
+    "otherLocation": "🚗 Staat jouw locatie er niet bij? Bel ons – vaak rijden we verder!",
+    "mapTitle": "Kaart – Sleepdienst dekking Amsterdam",
+    "noMap": "Kaart niet beschikbaar",
+    "stats": {
+      "responseTime": "Minuten",
+      "available": "Bereikbaar",
+      "coverage": "Dekking"
+    }
+  },
+  "payment": {
+    "title": "Betaling & Facturatie",
+    "subtitle": "Meerdere betaalopties en transparante tarieven",
+    "items": {
+      "methods": { "label": "Betaalmethoden", "value": "Pin • iDEAL (betaallink) • Factuur" },
+      "rates": { "label": "Tarieven", "value": "Vaste zones, prijs vooraf gecommuniceerd" },
+      "invoice": { "label": "Facturatie", "value": "KVK 52023223 • BTW NL102397035B01" }
+    },
+    "extra": {
+      "title": "Zakelijke factuur nodig?",
+      "description": "Wij leveren gedetailleerde facturen met alle benodigde gegevens voor je administratie. Betaaltermijn 14 dagen."
+    }
+  },
+  "finalCta": {
+    "title": {
+      "line1": "Klaar om geholpen",
+      "line2": "te worden?"
+    },
+    "features": {
+      "speed": "±30 min responstijd",
+      "insured": "100% verzekerd"
+    },
+    "cta": {
+      "call": "Bel: 06 25 375 323",
+      "whatsapp": "WhatsApp"
+    },
+    "footer": "Sleepdienst Direct is actief in heel Amsterdam en omgeving: van Centrum tot Noord, Oost, West en Zuid. Wij helpen particulieren, garages, leasemaatschappijen en schadebedrijven met snel en verzekerd autotransport."
+  }
+}
